@@ -1,0 +1,4 @@
+El archivo reporte_pasan_subsa.php  que esta dentro de la carpeta senati es el que actualmente está en uso.
+Dentro de la carpeta Modulo > Vistas > Reconocidas esta el archivo 36.reporte_pasan_subsa.php que es el que se va a modificar.
+El archivo 32.reporte_jefe_centro.php es un ejemplo de como se hace para pasar los datos.
+En el Api solo se hace el llamado, dentro hay procedures que hacen llamada a la base de datos.
